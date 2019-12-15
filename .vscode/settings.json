@@ -2,6 +2,7 @@
     "python.pythonPath": "bucket\\Scripts\\python.exe",
     "python.linting.enabled": true,
     "python.linting.pylintEnabled": true,
-    "python.linting.prospectorEnabled": false
+    "python.linting.prospectorEnabled": false,
+    "python.terminal.activateEnvironment":true
 }
 
