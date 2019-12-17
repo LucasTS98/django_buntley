@@ -39,16 +39,8 @@
       </div>
     </nav>
     <!-- Main block -->
-    <main role="main" class="container">
-      <div class="row">
-        <div class="col-md-8">
-          {% block content %}
-          {% endblock %}
-       </div>
-       {% block sidebar %}
-       {% endblock %}          
-      </div>
-    </main>
+    {% block content%}
+    {% endblock %}
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -10,50 +10,55 @@
     margin-bottom: 20px;
   }
   
-  .article-title {
+.article-title {
     color: #444444;
   }
   
-  a.article-title:hover {
+a.article-title:hover {
     color: #428bca;
     text-decoration: none;
   }
   
-  .article-content {
+.article-content {
     white-space: pre-line;
   }
   
-  .article-img {
+.article-img {
     height: 65px;
     width: 65px;
     margin-right: 16px;
   }
   
-  .article-metadata {
+.article-metadata {
     padding-bottom: 1px;
     margin-bottom: 4px;
     border-bottom: 1px solid #e3e3e3
   }
   
-  .article-metadata a:hover {
+.article-metadata a:hover {
     color: #333;
     text-decoration: none;
   }
   
-  .article-svg {
+.article-svg {
     width: 25px;
     height: 25px;
     vertical-align: middle;
   }
 
-  .navbar{
+.navbar{
       background-color: darkslategrey;
   }
-  .nav-link, .nav-link:hover{
+.nav-link, .nav-link:hover{
     color: #e3e3e3;
   }
-  a.navbar-brand, a.navbar-brand:hover{
+a.navbar-brand, a.navbar-brand:hover{
     color: #e3e3e3;
     margin-right: 1.5rem!important;
   }
- 
+img#profile_img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+
+}
